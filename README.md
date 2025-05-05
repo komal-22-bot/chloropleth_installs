@@ -8,9 +8,34 @@ This visualization is restricted to display only between 6 PM and 8 PM IST. Outs
 
 **Tech Stack**
 -Python
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -Plotly
+
+
+
+
 -Pandas
+
+
+
+
+
 -Dash (for dashboard integration)
+
+
 -DateTime (for time filtering)
 
 ## Features
