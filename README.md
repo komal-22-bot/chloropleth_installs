@@ -7,30 +7,15 @@ This visualization is restricted to display only between 6 PM and 8 PM IST. Outs
 *Visualization is only available between 6 PM and 8 PM IST.*
 
 **Tech Stack**
+
+
 -Python
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 -Plotly
 
 
-
-
 -Pandas
-
-
-
 
 
 -Dash (for dashboard integration)
